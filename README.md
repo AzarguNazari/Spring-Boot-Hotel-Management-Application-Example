@@ -1,17 +1,14 @@
 # Spring Boot "Microservice" Example Project
 
-This is a sample Java / Maven / Spring Boot (version 1.5.6) application that can be used as a starter for creating a microservice complete with built-in health check, metrics and much more. I hope it helps you.
+This is a sample Java / Maven / Spring Boot (version 2.2.6) application that can be used as a starter for creating a microservice complete with built-in health check, metrics and much more. I hope it helps you.
 
 ## How to Run 
-
-This application is packaged as a war which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the ```java -jar``` command.
-
 * Clone this repository 
-* Make sure you are using JDK 1.8 and Maven 3.x
+* Make sure you are using JDK 1.8 and Maven
 * You can build the project and run the tests by running ```mvn clean package```
 * Once successfully built, you can run the service by one of these two methods:
 ```
-        java -jar -Dspring.profiles.active=test target/spring-boot-rest-example-0.5.0.war
+        java -jar -Dspring.profiles.active=test target/Spring-Boot-Hotel-Management-Application-Example-0.5.0.war
 or
         mvn spring-boot:run -Drun.arguments="spring.profiles.active=test"
 ```
@@ -28,14 +25,11 @@ Once the application runs you should see something like this
 
 The service is just a simple hotel review REST service. It uses an in-memory database (H2) to store the data. You can also do with a relational database like MySQL or PostgreSQL. If your database connection properties work, you can call some REST endpoints defined in ```com.khoubyari.example.api.rest.hotelController``` on **port 8090**. (see below)
 
-More interestingly, you can start calling some of the operational endpoints (see full list below) like ```/metrics``` and ```/health``` (these are available on **port 8091**)
-
 You can use this sample service to understand the conventions and configurations that allow you to create a DB-backed RESTful service. Once you understand and get comfortable with the sample app you can add your own services following the same patterns as the sample service.
  
 Here is what this little application demonstrates: 
 
 * Full integration with the latest **Spring** Framework: inversion of control, dependency injection, etc.
-* Packaging as a single war with embedded container (tomcat 8): No need to install a container separately on the host just run using the ``java -jar`` command
 * Demonstrates how to set up healthcheck, metrics, info, environment, etc. endpoints automatically on a configured port. Inject your own health / metrics info with a few lines of code.
 * Writing a RESTful service using annotation: supports both XML and JSON request / response; simply use desired ``Accept`` header in your request
 * Exception mapping from application exceptions to the right HTTP response with exception details in the body
@@ -45,15 +39,6 @@ Here is what this little application demonstrates:
 * All APIs are "self-documented" by Swagger2 using annotations 
 
 Here are some endpoints you can call:
-
-### Get information about system health, configurations, etc.
-
-```
-http://localhost:8091/env
-http://localhost:8091/health
-http://localhost:8091/info
-http://localhost:8091/metrics
-```
 
 ### Create a hotel resource
 
@@ -167,22 +152,8 @@ hotel.service:
 ### Then run is using the 'mysql' profile:
 
 ```
-        java -jar -Dspring.profiles.active=mysql target/spring-boot-rest-example-0.5.0.war
+        java -jar -Dspring.profiles.active=mysql target/Spring-Boot-Hotel-Management-Application-Example-0.5.0.war
 or
         mvn spring-boot:run -Drun.jvmArguments="-Dspring.profiles.active=mysql"
 ```
-
-# Attaching to the app remotely from your IDE
-
-Run the service with these command line options:
-
-```
-mvn spring-boot:run -Drun.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005"
-or
-java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005 -Dspring.profiles.active=test -Ddebug -jar target/spring-boot-rest-example-0.5.0.war
-```
-and then you can connect to it remotely using your IDE. For example, from IntelliJ You have to add remote debug configuration: Edit configuration -> Remote.
-
-# Questions and Comments: khoubyari@gmail.com
-
 

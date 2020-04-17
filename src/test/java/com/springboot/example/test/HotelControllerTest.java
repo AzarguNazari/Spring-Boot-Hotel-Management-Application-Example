@@ -6,8 +6,8 @@ package com.springboot.example.test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.springboot.example.Application;
-import com.springboot.example.api.rest.HotelController;
-import com.springboot.example.domain.Hotel;
+import com.springboot.example.controllers.HotelController;
+import com.springboot.example.models.Hotel;
 
 import org.junit.Before;
 import org.junit.Test;

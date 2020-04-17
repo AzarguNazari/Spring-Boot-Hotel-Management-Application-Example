@@ -1,7 +1,7 @@
 package com.springboot.example.service;
 
-import com.springboot.example.dao.jpa.HotelRepository;
-import com.springboot.example.domain.Hotel;
+import com.springboot.example.repository.HotelRepository;
+import com.springboot.example.models.Hotel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

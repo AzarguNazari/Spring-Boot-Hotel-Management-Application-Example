@@ -1,4 +1,4 @@
-package com.springboot.example.api.rest.docs;
+package com.springboot.example.docs;
 
 import com.google.common.base.Predicates;
 

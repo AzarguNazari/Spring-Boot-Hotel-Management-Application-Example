@@ -1,6 +1,6 @@
-package com.springboot.example.api.rest;
+package com.springboot.example.controllers;
 
-import com.springboot.example.domain.Hotel;
+import com.springboot.example.models.Hotel;
 import com.springboot.example.exception.ResourceNotFoundException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -14,8 +14,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.util.Optional;
 
 /*

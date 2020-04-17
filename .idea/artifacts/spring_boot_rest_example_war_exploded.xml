@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="spring-boot-rest-example" />
+          <element id="module-output" name="Spring-Boot-Hotel-Management-Application-Example" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:2.2.6.RELEASE" />
@@ -112,7 +112,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/spring-boot-rest-example-0.5.0/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="spring-boot-rest-example/web/Web" />
+      <element id="javaee-facet-resources" facet="Spring-Boot-Hotel-Management-Application-Example/web/Web" />
     </root>
   </artifact>
 </component>

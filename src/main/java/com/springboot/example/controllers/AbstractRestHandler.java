@@ -1,6 +1,6 @@
-package com.springboot.example.api.rest;
+package com.springboot.example.controllers;
 
-import com.springboot.example.domain.RestErrorInfo;
+import com.springboot.example.models.RestErrorInfo;
 import com.springboot.example.exception.DataFormatException;
 import com.springboot.example.exception.ResourceNotFoundException;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.springboot.example.domain;
+package com.springboot.example.models;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

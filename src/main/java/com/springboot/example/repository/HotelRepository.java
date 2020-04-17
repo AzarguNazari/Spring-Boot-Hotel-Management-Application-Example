@@ -1,9 +1,6 @@
-package com.springboot.example.dao.jpa;
+package com.springboot.example.repository;
 
-import com.springboot.example.domain.Hotel;
-import org.springframework.data.domain.AbstractPageRequest;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.Pageable;
+import com.springboot.example.models.Hotel;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
