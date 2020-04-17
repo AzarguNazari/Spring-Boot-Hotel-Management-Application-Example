@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2a8cc5-8134-47a7-850d-756852f7da02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/RestControllerAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/api/rest/AbstractRestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/api/rest/HotelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/api/rest/docs/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/dao/jpa/HotelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/domain/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/domain/RestErrorInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/exception/DataFormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/service/HotelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/service/HotelServiceEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/service/HotelServiceHealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoubyari/example/service/ServiceProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/khoubyari/example/test/HotelControllerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1afBxkQFVCyX60kWHKETogc53MR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-Boot-Hotel-Management-Application-Example" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (1)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-rest-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.example.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-rest-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.khoubyari.example.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2a8cc5-8134-47a7-850d-756852f7da02" name="Default Changelist" comment="" />
+      <created>1587117016483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587117016483</updated>
+      <workItem from="1587117019425" duration="4502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587118542149">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="424" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1587118542149" />
+    <state x="100" y="100" width="1720" height="835" key="DiffContextDialog" timestamp="1587119876079">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="100" y="100" width="1720" height="835" key="DiffContextDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1587119876079" />
+    <state x="748" y="276" key="FileChooserDialogImpl" timestamp="1587121520487">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="748" y="276" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1587121520487" />
+    <state width="1874" height="432" key="GridCell.Tab.0.bottom" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.0.center" timestamp="1587121527955">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527955" />
+    <state width="1874" height="432" key="GridCell.Tab.0.left" timestamp="1587121527955">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527955" />
+    <state width="1874" height="432" key="GridCell.Tab.0.right" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.1.bottom" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.1.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.1.center" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.1.center/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.1.left" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.1.left/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.1.right" timestamp="1587121527956">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.1.right/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527956" />
+    <state width="1874" height="432" key="GridCell.Tab.2.bottom" timestamp="1587121527957">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.2.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527957" />
+    <state width="1874" height="432" key="GridCell.Tab.2.center" timestamp="1587121527957">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.2.center/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527957" />
+    <state width="1874" height="432" key="GridCell.Tab.2.left" timestamp="1587121527957">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.2.left/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527957" />
+    <state width="1874" height="432" key="GridCell.Tab.2.right" timestamp="1587121527957">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1874" height="432" key="GridCell.Tab.2.right/0.0.1920.1035@0.0.1920.1035" timestamp="1587121527957" />
+    <state x="498" y="176" key="Maven.ArtifactSearchDialog" timestamp="1587118469761">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="498" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1587118469761" />
+  </component>
+</project>
