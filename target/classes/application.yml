@@ -17,10 +17,10 @@ project:
   description: boot-example default description
 info:
   build:
-    artifact: ${project.artifactId}
+    artifact: spring-boot-rest-example
     name: ${project.name}
     description: ${project.description}
-    version: ${project.version}
+    version: 0.5.0
 
 hotel.service:
   name: 'default profile:'
