@@ -10,60 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2a8cc5-8134-47a7-850d-756852f7da02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/controllers/HotelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Spring-Boot-Hotel-Management-Application-Example.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/RestControllerAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/controllers/HotelController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/controllers/impl/HotelControllerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/docs/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/exception/AbstractRestHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/exception/DataFormatException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/repository/HotelRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/service/HotelService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/service/HotelServiceEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hotelApplication/service/HotelServiceHealth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/hotelApplication/test/HotelControllerTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/hotelApplication/test/HotelControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/RestControllerAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/RestControllerAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/controllers/AbstractRestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/exception/AbstractRestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/controllers/impl/HotelControllerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/docs/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/docs/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/exception/DataFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/exception/DataFormatException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/models/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/models/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/models/RestErrorInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/models/RestErrorInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/repository/HotelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/repository/HotelRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/service/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/service/HotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/service/HotelServiceEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/service/HotelServiceEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/service/HotelServiceHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/service/HotelServiceHealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/example/service/ServiceProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hotelApplication/service/ServiceProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/springboot/example/test/HotelControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hotelApplication/test/HotelControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/RestControllerAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/controllers/AbstractRestHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/controllers/HotelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/docs/SwaggerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/exception/DataFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hotelApplication/exception/ResourceNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/exception/ResourceNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/models/Hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hotelApplication/models/Hotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/models/RestErrorInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hotelApplication/models/RestErrorInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/repository/HotelRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/service/HotelService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/service/HotelServiceEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/service/HotelServiceHealth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/example/service/ServiceProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hotelApplication/service/ServiceProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/springboot/example/test/HotelControllerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/springboot/example/test/HotelControllerTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ea2a8cc5-8134-47a7-850d-756852f7da02" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +55,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (2)">
+  <component name="RunManager" selected="JavaScript Debug.rooms.html">
+    <configuration name="main.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Spring-Boot-Hotel-Management-Application-Example/template/europa/main.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="rooms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Spring-Boot-Hotel-Management-Application-Example/template/europa/rooms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Spring-Boot-Hotel-Management-Application-Example" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.example.Application" />
@@ -138,6 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.rooms.html" />
+        <item itemvalue="JavaScript Debug.main.html" />
         <item itemvalue="Spring Boot.Application (2)" />
       </list>
     </recent_temporary>
@@ -154,7 +109,7 @@
       <updated>1587117016483</updated>
       <workItem from="1587117019425" duration="4502000" />
       <workItem from="1587121575154" duration="669000" />
-      <workItem from="1588032477875" duration="949000" />
+      <workItem from="1588032477875" duration="1596000" />
     </task>
     <servers />
   </component>
